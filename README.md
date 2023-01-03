@@ -30,7 +30,7 @@ The AI was made using the behavior tree and blackboard of unreal engine 4.27. <b
 All the tasks were made in C++ and no services were used because we understood to late how they work and we already had done the AI at that point.<br>
 This is our behavior Tree, it's the same for every enemy and they also share the same AI_Controller (They all have their own instance but it's the same class). <br>
 
-![PNG](GladiatorGame/Content/Assets/IMG/BB_ReadMe.PNG)
+![PNG](Showcase/BB_ReadMe.PNG)
 
 To manage all those AI we created an AIDirector which dictate to the AI who will attack and when, that's pretty all it does for now.
 </p>
@@ -50,7 +50,7 @@ To create a great visual for the throw we created a new BP that is multiple hamm
 
 Design of the multiple hammer blueprint 
 
-![PNG](GladiatorGame/Content/Assets/IMG/logo.png)
+![PNG](Showcase/logo.png)
 
 <p>
 <h2 style="color:cyan"> Sounds & VFX </h2>
